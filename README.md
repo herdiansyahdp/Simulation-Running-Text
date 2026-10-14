@@ -54,30 +54,30 @@ Secara sederhana, sistem bekerja dengan alur:
 
 ```text
 ┌─────────┐
-│  Clock  │
+│  Clock    │
 └────┬────┘
      │
      ▼
 ┌───────────────┐
-│ Timing /      │
-│ Control Logic │
+│ Timing /         │
+│ Control Logic    │
 └──────┬────────┘
        │
        ▼
 ┌───────────────┐
-│ Logic Gates   │
-│ AND / OR /... │
+│ Logic Gates      │
+│ AND / OR /...    │
 └──────┬────────┘
        │
        ▼
 ┌───────────────┐
-│ Character /   │
-│ LED Pattern   │
+│ Character /      │
+│ LED Pattern      │
 └──────┬────────┘
        │
        ▼
 ┌───────────────┐
-│ LED Display   │
+│ LED Display      │
 └──────┬────────┘
        │
        ▼
@@ -205,28 +205,28 @@ Struktur utamanya dapat digambarkan sebagai:
 
 ```text
                  ┌─────────────┐
-                 │    CLOCK    │
+                 │    CLOCK      │
                  └──────┬──────┘
                         │
                         ▼
               ┌──────────────────┐
-              │ Timing / Counter  │
+              │ Timing / Counter    │
               └────────┬─────────┘
                        │
                        ▼
               ┌──────────────────┐
-              │  Control Logic   │
-              │  AND / OR / NOT  │
+              │  Control Logic      │
+              │  AND / OR / NOT     │
               └────────┬─────────┘
                        │
                        ▼
               ┌──────────────────┐
-              │ Character Pattern│
+              │ Character Pattern   │
               └────────┬─────────┘
                        │
                        ▼
               ┌──────────────────┐
-              │   LED DISPLAY    │
+              │   LED DISPLAY       │
               └────────┬─────────┘
                        │
                        ▼
