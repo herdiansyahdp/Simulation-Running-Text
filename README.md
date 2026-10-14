@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Project-Sistem%20Digital-2563EB?style=for-the-badge" alt="Project"/>
-  <img src="https://img.shields.io/badge/Logisim--evolution-2.13.8-FF6B35?style=for-the-badge" alt="Logisim"/>
+  <img src="https://img.shields.io/badge/Logisim--evolution-2.7.1-FF6B35?style=for-the-badge" alt="Logisim"/>
   <img src="https://img.shields.io/badge/Hardware-LED%20Matrix-22C55E?style=for-the-badge" alt="LED Matrix"/>
   <img src="https://img.shields.io/badge/Status-Completed-16A34A?style=for-the-badge" alt="Status"/>
 </p>
